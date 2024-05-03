@@ -6,9 +6,10 @@ Below will address what the folllow methods do!
 in the student class has 3 methods found below
 
 ## `public Student(String firstName, String lastName)`
-This a constructor function that allows us to create a **Student** Object.
+This a constructor function that allows us to create a **Student** Object. We have
+two parameters `String firstName` and `String lastName`, **String** is a way to represent text.
 For instance I can do this `Student lol = New Student ("Areeb", "Malik");`
-and this is initalized with a first name `"Areeb"` and a last name `"Malik"`.
+and `lol` is initalized with a firstName eqaul to`"Areeb"` and lastName eqaul to `"Malik"`.
 If you don't understand, thats okay!
 
 ## `public boolean isEnrolled(String department, int number)`
